@@ -8,9 +8,8 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-}
 
-#container * {
+  text-align: center;
   user-select: none;
 }
 
@@ -26,7 +25,6 @@ body {
 
   font-family: "Orbitron", sans-serif;
   font-size: 72px;
-  text-align: center;
 }
 
 .digit {
